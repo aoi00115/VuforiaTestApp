@@ -14,8 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   settings:
     entries:
+    - key: 7
+      value: {fileID: 11400000, guid: 9fd2b393fdae0d2478fc364b55aef059, type: 2}
     - key: 14
-      value: {fileID: 11400000, guid: c677e5c4eb85b7849a8da406775c299d, type: 2}
+      value: {fileID: 11400000, guid: 641eb9b43c636dd4b8beca7b1ada27e5, type: 2}
     - key: 1
       value: {fileID: 11400000, guid: c677e5c4eb85b7849a8da406775c299d, type: 2}
   buildPreferences:

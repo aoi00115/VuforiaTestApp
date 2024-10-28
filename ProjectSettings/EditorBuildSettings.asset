@@ -4,8 +4,24 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/0-Menu.unity
+    guid: a4cc8abc9bace82439d06f081d5eaa72
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/1-ImageTargets.unity
+    guid: f380cc22e13f6cc45822bbf4072b4920
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/1-ModelTargets.unity
+    guid: 6c02b9f83525e0b4fbed6d52c3661fec
+  - enabled: 0
+    path: Assets/SampleResources/Scenes/1-VuMarks.unity
+    guid: a16963dac4debad4d85c2028cc434484
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 64af032205c224e45b5d6b7b402fec8a, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a15da48b126d3f742bc91063091ebc2a, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5290138c55698ca4983db1f999a4ebe7, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c833db9ea58d7c6448c696316e20611d, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 8eadf2d2748becc42814c28840b9d0e6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d961b23c0a938c847850c86793510cc7, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fae40547c1482ac4c94b3d781a86b3f6, type: 2}
