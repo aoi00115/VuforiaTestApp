@@ -845,8 +845,10 @@ PlayerSettings:
   syncCapabilities: 1
   platformCapabilities:
     WindowsStoreApps:
+      VideosLibrary: False
       GazeInput: True
       SpatialPerception: True
+      PicturesLibrary: False
       InternetClient: True
       WebCam: True
       Microphone: True
